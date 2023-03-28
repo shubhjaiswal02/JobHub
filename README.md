@@ -4,6 +4,8 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 ## 🚀 How to use
 
+Click and scan  : https://expo.dev/@shubh02/reat_native_jobs?servviceType=classic&distribution=expo-go
+
 ```sh
 npx create-react-native-app -t with-router
 ```
